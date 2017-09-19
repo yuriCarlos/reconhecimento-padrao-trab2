@@ -1,0 +1,1 @@
+# reconhecimento-padrao-trab2
